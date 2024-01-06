@@ -138,3 +138,7 @@ main {
     color: var(--Dark-02, #474747);
     font-size: 20px;
 }
+
+#what-i-do-desc{
+    padding: 30px 150px;
+}
